@@ -118,9 +118,10 @@ h1{
 
 
 
+
 ```
 OUTPUT:
-
+![Screenshot (49)](https://user-images.githubusercontent.com/119557985/215345812-6f2d9b40-d5a0-4df0-b378-3100dc2506f9.png)
 
 HTML VALIDATOR:
 
