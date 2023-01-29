@@ -1,3 +1,5 @@
+## AIM
+To develop a simple Calculator in HTML using CSS.
 Step 1:
 Clone the github repository and create Django admin interface.
 
@@ -123,7 +125,6 @@ h1{
 OUTPUT:
 ![Screenshot (49)](https://user-images.githubusercontent.com/119557985/215345812-6f2d9b40-d5a0-4df0-b378-3100dc2506f9.png)
 
-HTML VALIDATOR:
 
 RESULT:
 The program for implementing simple calculator using HTML, CSS and JavaScript is executed successfully.
