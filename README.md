@@ -13,13 +13,13 @@ Use CSS for creating attractive colors.
 ### Step 4:
 Write JavaScript program for implementing five different operations.
 
-Step 5:
+### Step 5:
 Validate the HTML and CSS code.
 
 ### Step 6:
 Publish the website in the given URL.
 
-PROGRAM :
+### PROGRAM :
 ```html
 
 
